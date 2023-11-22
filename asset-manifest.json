@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/navigator/static/css/main.2f3e564c.css",
+    "main.js": "/navigator/static/js/main.bf57e529.js",
+    "static/js/787.2c99509d.chunk.js": "/navigator/static/js/787.2c99509d.chunk.js",
+    "static/media/Landing page.svg": "/navigator/static/media/Landing page.e40187f84802c0277ab2.svg",
+    "static/media/logo.png": "/navigator/static/media/logo.ffcd586eb81a21bf399d.png",
+    "static/media/university logo.svg": "/navigator/static/media/university logo.1f742d3216a18d7c9ebf0824df692fd4.svg",
+    "static/media/aboutus-img.svg": "/navigator/static/media/aboutus-img.1f93de4aef0ccdc2bad43189662b4a10.svg",
+    "static/media/reilu media logo.svg": "/navigator/static/media/reilu media logo.7b6460027148bcff5a66519be5188489.svg",
+    "static/media/sponsor logo.png": "/navigator/static/media/sponsor logo.9769ac186f620dadeee5.png",
+    "static/media/Kiitos.svg": "/navigator/static/media/Kiitos.b31e5dade6d437df6b5f939383743143.svg",
+    "static/media/arrow-4.svg": "/navigator/static/media/arrow-4.ac578747d27ffe496b47a95a8a60b270.svg",
+    "static/media/arrow-2.svg": "/navigator/static/media/arrow-2.9df321d1eab1fd1d53fbe7580c0c2fd5.svg",
+    "static/media/arrow-1.svg": "/navigator/static/media/arrow-1.44ece0b19ab906cadcc552b3293e4000.svg",
+    "static/media/arrow-5.svg": "/navigator/static/media/arrow-5.715fd0532523bef0ac8802cf20682dc5.svg",
+    "static/media/arrow-3.svg": "/navigator/static/media/arrow-3.11942d6d7796e43a700c268a14b53b54.svg",
+    "index.html": "/navigator/index.html",
+    "main.2f3e564c.css.map": "/navigator/static/css/main.2f3e564c.css.map",
+    "main.bf57e529.js.map": "/navigator/static/js/main.bf57e529.js.map",
+    "787.2c99509d.chunk.js.map": "/navigator/static/js/787.2c99509d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3e564c.css",
+    "static/js/main.bf57e529.js"
+  ]
+}
